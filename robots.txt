@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lira-lab.github.io/sitemap.xml
+Sitemap: https://lira.github.io/sitemap.xml
